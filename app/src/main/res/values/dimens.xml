@@ -1,0 +1,53 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="dua_text_size">18sp</dimen>
+    <dimen name="image_width_height">240dp</dimen>
+
+    <dimen name="bg_rounded_corners">2dp</dimen>
+    <dimen name="bg_rounded_padding">1dp</dimen>
+    <dimen name="bg_rounded_bg_stroke">4px</dimen>
+    <dimen name="header_text_size">16sp</dimen>
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="big_text_size">18sp</dimen>
+    <dimen name="small_text_size">14sp</dimen>
+    <dimen name="button_margin_left">12dp</dimen>
+    <dimen name="button_margin_right">12dp</dimen>
+    <dimen name="button_margin_top">12dp</dimen>
+    <dimen name="button_padding">16dp</dimen>
+    <dimen name="list_map_header">200dp</dimen>
+    <dimen name="booking_header">240dp</dimen>
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="shadow_width">15dp</dimen>
+    <dimen name="options_corner">2dp</dimen>
+    <dimen name="fb_text_size">15sp</dimen>
+    <dimen name="slim_button_padding">12dp</dimen>
+    <dimen name="slim_margin_top">8dp</dimen>
+    <dimen name="drawable_padding">12dp</dimen>
+    <dimen name="drawable_padding_fb">17dp</dimen>
+    <dimen name="smaller_text_size">12sp</dimen>
+    <dimen name="small_padding">8dp</dimen>
+    <dimen name="radio_button_height">40dp</dimen>
+    <dimen name="big_edittext_height">80dp</dimen>
+    <dimen name="activity_edittext_height">120dp</dimen>
+    <dimen name="big_view_height">200dp</dimen>
+    <dimen name="rounded_image_width_height">80dp</dimen>
+    <dimen name="pet_image_height">300dp</dimen>
+    <dimen name="petservice_detail_negative_margine_top">-44dp</dimen>
+    <dimen name="rounded_image_width_height_big">120dp</dimen>
+    <dimen name="calendar_height">320dp</dimen>
+    <dimen name="small_pager_height">80dp</dimen>
+    <dimen name="current_item_dog_width_height">100dp</dimen>
+    <dimen name="right_menu_radio_2column_button_height">60dp</dimen>
+    <dimen name="bar_height">8dp</dimen>
+    <dimen name="bar_line_weight">3dp</dimen>
+    <dimen name="gallery_pading_top_bottom">24dp</dimen>
+    <dimen name="service_image_width_height">40dp</dimen>
+    <dimen name="big_margin_padding">24dp</dimen>
+    <dimen name="hadis_text_size">24sp</dimen>
+    <dimen name="counter_width_height">240dp</dimen>
+    <dimen name="counter_width_height_value">240dp</dimen>
+    <dimen name="tesbih_textsize">16sp</dimen>
+    <dimen name="niyet_text_size">24sp</dimen>
+</resources>

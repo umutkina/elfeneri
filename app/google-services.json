@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "119901153732",
+    "firebase_url": "https://elfeneri-81388.firebaseio.com",
+    "project_id": "elfeneri-81388",
+    "storage_bucket": "elfeneri-81388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119901153732:android:b61a8a74fffaaeae",
+        "android_client_info": {
+          "package_name": "com.umutkina.elfeneri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119901153732-gksg5avkifb5tddhft0vlgld9mh9mrrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAneMjVSbTbjMMWE1vypxxBvrBEF_-Y_1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
